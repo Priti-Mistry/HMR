@@ -1,0 +1,35 @@
+.sider{
+    margin:20px;
+    background-color: white;
+    color:black;
+    margin-right: 2px;
+}
+.title{
+    padding-left: 13px;
+    padding-top: 13px;
+    font-size: large;
+    font-weight: 500;   
+}
+.icon-style{
+    margin: 0;
+    padding: 0 10px 0 0;
+}
+.menu-item{
+    font-size: 1rem;
+}
+
+.search-star-container{
+    display: flex;
+    flex-direction: row;
+}
+.star-style {
+    border: 2px solid #e0dddd; /* Add border */
+    padding: 5px; /* Add padding */
+}
+.search-container{
+    margin:0px;
+    padding-right:10px;
+    border-radius: 0px;
+}
+
+  

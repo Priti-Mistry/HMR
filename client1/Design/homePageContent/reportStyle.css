@@ -1,0 +1,28 @@
+.description-container{
+    margin: 0;
+    padding: 20px;
+    width: 50%;
+    font-weight: 300;
+}
+.btn-style{
+    border-color:RGB(64, 142, 255) ;
+    color: RGB(64, 142, 255);
+    border-radius: 3px;
+    border-width: 2px;
+    font-weight: 700;
+}
+.video-style{
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.video-container{
+    margin-right: 30px;
+}
+.dropdown-style{
+    display: flex;
+    float:right
+}
+.report-btn{
+    margin: 10px;
+    border-radius:0
+}
